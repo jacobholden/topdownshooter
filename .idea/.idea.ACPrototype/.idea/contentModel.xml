@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jacob\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jacob\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ACPrototype.1538223679.00" t="ExcludeRecursive" />
+    <e p="C:\Work\Armed Conflict\ACPrototype" t="IncludeFlat">
+      <e p="ACPrototype" t="IncludeRecursive">
+        <e p="ACPrototype.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="core" t="Include">
+          <e p="AnimSprite.cs" t="Include" />
+          <e p="GameCore.cs" t="Include" />
+          <e p="gameobjects" t="Include">
+            <e p="GameObject.cs" t="Include" />
+            <e p="level" t="Include">
+              <e p="Agent.cs" t="Include" />
+              <e p="Bullet.cs" t="Include" />
+              <e p="LevelScene.cs" t="Include" />
+              <e p="lighting" t="Include">
+                <e p="FogOfWar.cs" t="Include" />
+                <e p="Light.cs" t="Include" />
+              </e>
+              <e p="Map.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+            </e>
+            <e p="Scene.cs" t="Include" />
+          </e>
+        </e>
+        <e p="definitions" t="Include">
+          <e p="ACBlendMode.cs" t="Include" />
+          <e p="ACObjectIDs.cs" t="Include" />
+          <e p="TextureDefinitions.cs" t="Include" />
+        </e>
+        <e p="interfaces" t="Include">
+          <e p="IUpdateable.cs" t="Include" />
+        </e>
+        <e p="managers" t="Include">
+          <e p="InputManager.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="ACPrototype.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="utils" t="Include">
+          <e p="MathUtils.cs" t="Include" />
+          <e p="WindowUtils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ACPrototype.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

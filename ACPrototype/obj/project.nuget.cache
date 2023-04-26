@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3GJgNU8bNoJjCcQVy2rgUj4L54tF7NIYDN0c3uDGoFpOtIxjxZrqd5QGTcZ9oplIFnVpdLPSqnzumlWondjACA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Armed Conflict\\ACPrototype\\ACPrototype\\ACPrototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
